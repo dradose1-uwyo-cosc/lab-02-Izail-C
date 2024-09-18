@@ -17,11 +17,11 @@ print("Hello, COSC1010")
 
 # Assign the string above to a variable named hello_message and print that variable
 hello_message = "Hello, COSC1010"
-print("hello_message")
+print(hello_message)
 
 # Assign the string "cowboy joe" to a variable, and print that variable with title casing
 mascot_name = "cowboy joe"
-print("mascot_name")
+print(mascot_name)
 
 # Complete the following f-string print message 
     # You will need to create your own variables and insert them  
@@ -54,4 +54,4 @@ print(f"x / y = {print(x / y)}")
 first_name = "Izail"
 last_name = "Chamberlain"
 space = " "
-print("first_name + space + last_name")
+print(first_name + space + last_name)
